@@ -26,4 +26,5 @@ if value_operator in ['1', '2', '3', '4', '5']:
             print("Error")
 else:
     print("Only numbers from 1 to 5")
+    result = None
 print(result)
